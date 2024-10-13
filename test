@@ -1,0 +1,19 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300..800&display=swap');
+</style>// <uniquifier>: Use a unique and descriptive class name
+    // <weight>: Use a value from 300 to 800
+    
+    .open-sans-<uniquifier> {
+      font-family: "Open Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+      font-variation-settings:
+        "wdth" 100;
+    }
+    .sevillana-regular {
+        font-family: "Sevillana", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
